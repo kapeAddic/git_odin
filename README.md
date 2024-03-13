@@ -1,2 +1,2 @@
 # git_odin
-The Odin Projects
+The Odin Project
